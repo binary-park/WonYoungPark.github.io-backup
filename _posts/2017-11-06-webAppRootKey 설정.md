@@ -2,9 +2,8 @@
 layout: post
 title:  "webAppRootKey 설정"
 subtitle:   "Spring"
-categories: Document
+categories: document
 tags: spring
-comments: false
 ---
 
 하나의 Tomcat에 context가 두개 이상 적재되어 있고, log4j나 logback과 같은 로깅 프레임워크를 사용하고 있다면 아래와 같은 에러가 발생한다.

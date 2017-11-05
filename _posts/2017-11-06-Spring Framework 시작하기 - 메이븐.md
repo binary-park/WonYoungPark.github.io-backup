@@ -2,9 +2,8 @@
 layout: post
 title:  "Maven"
 subtitle:   "Spring"
-categories: Document
+categories: document
 tags: spring
-comments: false
 ---
 
 메이븐은 자바 개발자가 자주 사용하는 빌드 툴[^1]중 하나입니다. 메이븐이라는 빌드툴을 사용하여 소스코드로 부터 개포 가능한 산출물(artifact)을 빌드(build)한다.

@@ -2,9 +2,8 @@
 layout: post
 title:  "RequestMappingHandlerMapping을 이용하여 URL 가져오기"
 subtitle:   "Spring"
-categories: Document
+categories: document
 tags: spring
-comments: false
 ---
 
 메뉴관리 화면에서 사용자 편리성의 위해 스프링에서 RequestMapping 어노테이션을 통해 등록한 url을 조회할 수 있는 기능을 만들기 위해 예제를 만들어 보았다.

@@ -2,9 +2,8 @@
 layout: post
 title:  "bean의 destory-method 속성"
 subtitle:   "Spring"
-categories: Document
+categories: document
 tags: spring
-comments: false
 ---
 
 spring에서 dbcp를 설정하다보면 destroy-method 속성을 흔치않게 확인 할 수 있다. destroy-method 속성이 무엇인지에 대해 알아보도록 하겠다.
