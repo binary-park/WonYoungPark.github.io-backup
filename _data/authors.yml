@@ -57,7 +57,7 @@ wonyoungpark:
     # stumbleupon:     <username>
     # paypal:          <username>
     email:           mailto:wyparks2@gmail.com
-    rss:             https://wonyoungpark.github.io/feed.xml
+    # rss:             https://wonyoungpark.github.io/feed.xml
 
 # Another author
 mdo:
