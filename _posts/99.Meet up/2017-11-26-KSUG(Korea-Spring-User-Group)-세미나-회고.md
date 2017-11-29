@@ -7,7 +7,7 @@ tags: meetup
 comments: true
 ---
 
-2017년 11월 26일 KSUG(Korea Spring User Group) 세미나를 참석하게 되었다. 원래는 티켓팅이 늦어서 참석을 못할 줄 알았는데, 운이 좋게도 티켓을 양도 받아서 참석 할 수 없었다. 금일 세미나의 시간표는 아래와 같다.
+2017년 11월 26일 KSUG(Korea Spring User Group) 세미나를 참석하게 되었다. 원래는 티켓팅이 늦어서 참석을 못할 줄 알았는데, 운이 좋게도 티켓을 양도 받아서 참석 할 수 있었다. 금일 세미나의 시간표는 아래와 같다.
 
 - Java 9 new Feature - 양수열
 - HTTP/2세대의 Java - 정상혁
