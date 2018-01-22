@@ -1,3 +1,11 @@
+---
+layout: post
+title: "[플러그인] StyleCheck 세팅하기"
+subtitle: "IntelliJ"
+categories: document
+tags: intellij
+---
+
 
 
 이직한 회사에서 새로운 프로젝트를 맡아서 개발은 진행하고 있다. 이직한 회사의 현재 상황은 .Net기반의 시스템을 Java/Spring 기반으로 넘어가는 단계이기 때문에 아직까지 코드 관리를 할 수 있는 체계가 전혀 잡혀 있지 않았다. 따라서 코드관리에 대해 알아보다가 StyleCheck 라는 인텔리J 플러그인을 알게 되었다.
@@ -25,13 +33,13 @@ Mac OS:
 
 2. `+` > `Broswe`
 
-   ![1](/Users/mrblue-one0/Desktop/1.png)
+   ![1](img/20180119_01_01.png)
 
 3. 경로선택: init/IntelliJ_MrblueCheckStyle.xml 선택
 
 ####1.3. 사용법
 
-![2](/Users/mrblue-one0/Desktop/2.png)
+![2](img/20180119_01_02.png)
 
 1. Checksytle 플러그인  탭
 2. 코딩 스타일 리스트
@@ -54,7 +62,7 @@ mac OS:
 
 2. `Scheme: 톱니바퀴` 누름
 
-   ![3](/Users/mrblue-one0/Desktop/3.png)
+   ![3](img/20180119_01_03.png)
 
 3. `import Scheme` > `Intellij IDEA  code style XML`
 
