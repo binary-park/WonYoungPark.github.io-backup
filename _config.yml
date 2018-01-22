@@ -126,3 +126,7 @@ compress_html:
 
 sass:
   style:             compressed
+
+relative_links:
+  enabled:     true
+  collections: false
