@@ -16,6 +16,8 @@ CheckStyle이란 프로그래머가 코딩 표준을 준수하는 Java 코드를
 
 CheckStyle은 기본적으로 Sun, Google의 코드 스타일 중에 한가지를 선택하여 사용할 수 있는데, Sun 코드 스타일의 경우 최근 commit 이력이 없고, Google 코드 스타일의 경우 최근에도 지속적으로 관리가 되고 있으며, Java8의 람다식까지 검사할 수 있기 때문에 Google코드 스타일을 Custom하여 사용하기로 하였다.
 
+
+
 #### 1.1. 설치
 
 Mac OS:
