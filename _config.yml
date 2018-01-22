@@ -100,6 +100,7 @@ gems:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-relative-links
 
 exclude:
   - README.md
