@@ -4,6 +4,7 @@ title: "Cannot get a connection, pool error Timeout waiting for idle object"
 subtitle: "Spring"
 categories: document
 tags: spring
+published: true
 comments: true
 ---
 
