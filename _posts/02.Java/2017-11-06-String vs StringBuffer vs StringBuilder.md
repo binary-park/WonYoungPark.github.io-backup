@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "String vs StringBuffer vs StringBuilder"
-subtitle:   "Java"
+title: "String vs StringBuffer vs StringBuilder"
+subtitle: "Java"
 categories: document
 tags: java
+published: true
 comments: true
 ---
 
@@ -28,11 +29,11 @@ abcdefghi
 
 ### String 동작원리
 
-|          |1st|2nd|3rd|
-|:--------:|:-:|:-:|:-:|
-|주소 = 100|abc|   |   |
-|주소 = 150|abc|def|   |
-|주소 = 200|abc|def|ghi|
+|          | 1st  | 2nd  | 3rd  |
+| :------: | :--: | :--: | :--: |
+| 주소 = 100 | abc  |      |      |
+| 주소 = 150 | abc  | def  |      |
+| 주소 = 200 | abc  | def  | ghi  |
 
 > **Note:**
 > - String 객체에 문자열을 더하면 새로운 String객체가 생성된다.
@@ -55,11 +56,11 @@ abcdefghi
 ```
 
 ### StringBuffer, StringBuilder 동작원리
-|          |1st|2nd|3rd|
-|:--------:|:-:|:-:|:-:|
-|주소 = 100|abc|   |   |
-|주소 = 100|abc|def|   |
-|주소 = 100|abc|def|ghi|
+|          | 1st  | 2nd  | 3rd  |
+| :------: | :--: | :--: | :--: |
+| 주소 = 100 | abc  |      |      |
+| 주소 = 100 | abc  | def  |      |
+| 주소 = 100 | abc  | def  | ghi  |
 
 > **Note:**
 > - String 객체와는 다르게 새로운 객체를 생성하지 않는다.
