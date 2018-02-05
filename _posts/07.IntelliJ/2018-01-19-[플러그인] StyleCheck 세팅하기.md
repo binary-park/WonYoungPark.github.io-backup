@@ -33,13 +33,13 @@ Mac OS:
 
 2. `+` > `Broswe`
 
-   ![1](images/2018/0119_01_01.png)
+   ![1](/images/2018/0119_01_01.png)
 
 3. 경로선택: init/IntelliJ_MrblueCheckStyle.xml 선택
 
 #### 1.3. 사용법
 
-![2](images/2018/0119_01_02.png)
+![2](/images/2018/0119_01_02.png)
 
 1. Checksytle 플러그인  탭
 2. 코딩 스타일 리스트
@@ -62,7 +62,7 @@ mac OS:
 
 2. `Scheme: 톱니바퀴` 누름
 
-   ![3](images/2018/0119_01_03.png)
+   ![3](/images/2018/0119_01_03.png)
 
 3. `import Scheme` > `Intellij IDEA  code style XML`
 
