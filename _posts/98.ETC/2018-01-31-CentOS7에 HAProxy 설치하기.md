@@ -82,7 +82,7 @@ HAProxy의 최신 버전은 http://www.haproxy.org에서 다운로드 받을 수
 Linux CentOS7-CICD 3.10.0-693.17.1.el7.x86_64 #1 SMP Thu Jan 25 20:13:58 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
 ```
 
-이제 컴파일을 진행해 보겠습니다.
+이제 컴파일을 진행해 보겠습니다. https 사용이 필요하기때문에 USE_OPENSSL 옵션을 활성화 하도록 합니다.
 
 ```
 > cd ~/haproxy-1.8.3
