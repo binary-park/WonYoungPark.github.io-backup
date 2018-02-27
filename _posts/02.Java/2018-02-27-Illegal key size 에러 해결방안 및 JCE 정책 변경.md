@@ -3,7 +3,7 @@ layout: post
 title: "Illegal key size 에러 해결방안 및 JCE 정책 변경"
 subtitle: "Java"
 categories: document
-tags: java error security encrypt
+tags: java error security encrypt jce
 published: true
 comments: true
 ---
