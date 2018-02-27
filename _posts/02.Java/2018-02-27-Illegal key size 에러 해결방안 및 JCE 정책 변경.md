@@ -12,7 +12,7 @@ comments: true
 
 미국 수출 통상법에 따라 사용할 수 있는 키 길이 등에 제한이 걸려 있기 때문에 JAVA의 기본 정책으로 AES-128 암호화 방식까지만 사용이 가능합니다. 하지만 최근에 [JCE policy changes in Java SE 8u151, 8u152 and 8u162](https://golb.hplar.ch/2017/10/JCE-policy-changes-in-Java-SE-8u151-and-8u152.html)의 내용과 같이 JCE 정책이 변경된 것을 확인할 수 있습니다.
 
-Java 8u161버전 미만에서 192bit 혹은 256bit를 사용하게 될 경우 다음과 같은 에러가 발생됩니다.
+Java 8u162버전 미만에서 192bit 혹은 256bit를 사용하게 될 경우 다음과 같은 에러가 발생됩니다.
 
 ```
 Exception in thread "main" java.security.InvalidKeyException: Illegal key size
@@ -60,7 +60,7 @@ Java 8u162버전은 기본적으로 **unlimited** 속성을 따르기 때문에 
 
 
 
-> **Tip: ** Java9은 **unlimited** 속성이 default이므로 수정할 필요가 없습니다.
+> **Tip: ** Java9은 unlimited 속성이 default이므로 수정할 필요가 없습니다.
 
 
 
