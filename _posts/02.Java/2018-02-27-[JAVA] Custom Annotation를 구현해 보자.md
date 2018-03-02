@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Custom Annotation"
+title: "[JAVA] Custom Annotation를 구현해 보자"
 subtitle: "Java"
 categories: document
 tags: java annotation
